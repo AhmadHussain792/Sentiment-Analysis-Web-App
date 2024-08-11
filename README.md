@@ -14,7 +14,7 @@ Check out the 'REQUIREMENTS.TXT' file for more info on the required libraries an
 
 # Code Explanation
 
-The app.py file imports the 'sentiment_analyzer' function from the *sentiment_analysis.py* file in the folder 'SentimentAnalysis'.
+The server.py file imports the 'sentiment_analyzer' function from the *sentiment_analysis.py* file in the folder 'SentimentAnalysis'.
 
 - app = Flask("Sentiment Analysis") : Initializes the Flask application with the name "Sentiment Analysis".
 
