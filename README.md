@@ -31,9 +31,10 @@ The server.py file imports the 'sentiment_analyzer' function from the *sentiment
 # Final Result
 Web App Interface:
 
-![image](https://github.com/user-attachments/assets/207455c2-2972-4975-a638-781180bfba9c)
+![image](https://github.com/user-attachments/assets/b6f64b08-ccce-4e49-aa6c-e95788a4d868)
 
 Sentiment Analysis result:
 
-![image](https://github.com/user-attachments/assets/809df086-7121-48d5-b059-7ee90ed8a469)
+![image](https://github.com/user-attachments/assets/79d44f02-f20b-4245-aa1c-56a2115bacb3)
+
 
