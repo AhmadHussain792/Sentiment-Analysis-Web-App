@@ -1,7 +1,7 @@
 # Sentiment-Analysis-Web-App
 A Flask-based application that allows users to perform sentiment analysis on text input through a web interface. The app takes user input from an HTML page, processes it using a sentiment analysis model, and returns the sentiment label along with its confidence score.
 
-The HTML file (index.html) for the frontend of the app is stored in the **'templates'** folder, and the JavaScript file (script.js) is stored in the **'static'** folder.
+The HTML file (index.html) for the frontend of the app is stored in the **'templates'** folder, the JavaScript file (script.js), and the CSS file (style.css) is stored in the **'static'** folder.
 
 
 # Features
