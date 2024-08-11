@@ -1,0 +1,21 @@
+body {
+    background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+}
+.center-heading {
+    text-align: center;
+    font-variant: small-caps;
+    font-weight: 600;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.form-label {
+    font-variant: small-caps;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+
+.card{
+    background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+}
+
+
