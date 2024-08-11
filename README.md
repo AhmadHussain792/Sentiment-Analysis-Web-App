@@ -22,7 +22,7 @@ The server.py file imports the 'sentiment_analyzer' function from the *sentiment
 
 - @app.route("/") : This route renders the main application page (index.html).
 
-- __name__ == "__main__" : This allows the Flask app to only run when this python script is run directly, not when it is imported into another module
+- \__name__ == "\__main__" : This allows the Flask app to only run when this python script is run directly, not when it is imported into another module
 
 - app.run(host="0.0.0.0", port=5000) : Starts the Flask server, making the app accessible via localhost:5000.
 
