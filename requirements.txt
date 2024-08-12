@@ -1,17 +1,10 @@
-The versions and packages that I used for this project are as follows:
-
-python version : 3.12.4
-conda version : 24.7.1
-
-I created a virtual environment using Anaconda and installed all required libraries inside the environment
-
-flask : 3.0.3
-flask-cors : 3.0.10
-huggingface_hub : 0.23.1
-numpy : 1.26.4
-numpy-base : 1.26.4
-pytorch : 2.3.0
-requests : 2.32.3
-tokenizers : 0.19.1
-transformers : 4.41.2
+flask==3.0.3
+flask-cors==3.0.10
+huggingface_hub==0.23.1
+numpy==1.26.4
+numpy-base==1.26.4
+pytorch==2.3.0
+requests==2.32.3
+tokenizers==0.19.1
+transformers==4.41.2
 
